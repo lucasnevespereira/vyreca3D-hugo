@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Modélisation d'objets 3D, Depuis 2020"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  content: ""
   image: "images/watch.png"
   button:
     enable: true
