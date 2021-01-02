@@ -11,7 +11,7 @@ sections:
   match: "*"
 - type: directory
   path: content/english
-  label: Vyreca3D
+  label: Contenu
   create: all
   match: "**/*"
 upload_dir: static/uploads
