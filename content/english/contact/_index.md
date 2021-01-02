@@ -3,7 +3,7 @@ title: Contact
 description: this is a meta description
 office:
   title: Nous contacter
-  mobile: '0124857985320'
+  mobile: ''
   email: vyreca3D@gmail.com
   location: Paris, France
   content: ''
@@ -19,3 +19,4 @@ opennig_hour:
   - 'sunday: 9:00 – 19:00'
 
 ---
+N'hésitez pas à nous contacter si jamais vous avez des questions ou des messages à nous faire passer.
