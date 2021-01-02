@@ -1,3 +1,6 @@
 [submodule "themes/vex"]
 	path = themes/vex
-	url = git://github.com/themefisher/vex-hugo.git
+	url = https://github.com/themefisher/vex-hugo.git
+[submodule "themes/vex-hugo"]
+	path = themes/vex-hugo
+	url = https://github.com/themefisher/vex-hugo.git
