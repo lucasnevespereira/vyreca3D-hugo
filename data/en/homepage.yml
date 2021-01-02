@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Modélisation d'objets 3D, Depuis 2020"
   content: ""
-  image: "images/watch.png"
+  image: "images/favicon.png"
   button:
     enable: true
     label: "Voir tous les produits"
