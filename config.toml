@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
+baseurl = "https://vyreca3d.netlify.app"
 title = "Vyreca3D"
 theme = "vex-hugo"
 # post excert
