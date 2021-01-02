@@ -111,7 +111,8 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+#copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© 2020 Vyreca3D - [Themefisher](https://themefisher.com/) - [Hugo](https://gethugothemes.com/) All Rights Reserved "
 
 
 ################################### French language #####################################
