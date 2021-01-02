@@ -6,7 +6,8 @@ office:
   mobile: ''
   email: vyreca3D@gmail.com
   location: Paris, France
-  content: ''
+  content: N'hésitez pas à nous contacter si jamais vous avez des questions ou des
+    messages à nous faire passer.
 opennig_hour:
   title: Opening Hours
   day_time:
