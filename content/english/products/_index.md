@@ -1,5 +1,5 @@
 ---
-title: "Tous nos produits"
-description: "this is a meta description"
-draft: false
+title: Tous nos produits
+description: Vyreca3D - Tous nos produits
+
 ---
