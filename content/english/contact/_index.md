@@ -4,7 +4,7 @@ description: Vyreca3D - Contact
 office:
   title: Nous contacter
   mobile: ''
-  email: vyreca3D@gmail.com
+  email: vyreca.3d@gmail.com
   location: Paris, France
   content: N'hésitez pas à nous contacter si jamais vous avez des questions ou des
     messages à nous faire passer.
