@@ -88,14 +88,14 @@ logo_width = "100px"
 # currency
 #currency = "$"
 # contact form action
-#contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://usebasin.com/f/cf01bbd063ef" # contact form works with https://formspree.io
 # snipcart public api key
 #snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
 # Preloader
 [params.preloader]
 enable = true
-preloader = "" # use .png , .svg or .gif format
+preloader = "images/logo-vyreca.png" # use .png , .svg or .gif format
 
 # Subscription
 [params.subscription]
@@ -112,7 +112,7 @@ contentDir = "content/english"
 weight = 1
 # copyright
 #copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-copyright = "© 2020 Vyreca3D - [Themefisher](https://themefisher.com/), [Hugo](https://gethugothemes.com/) - All Rights Reserved "
+copyright = "Vyreca3D - Developed by [lucasnevespereira](https://lucasnp.com) - All Rights Reserved "
 
 
 ################################### French language #####################################
