@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: this is a meta description
+description: Vyreca3D - Contact
 office:
   title: Nous contacter
   mobile: ''
