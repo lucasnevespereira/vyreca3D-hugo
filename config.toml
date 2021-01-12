@@ -94,7 +94,7 @@ contact_form_action = "https://usebasin.com/f/cf01bbd063ef" # contact form works
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/favicon.png" # use .png , .svg or .gif format
 
 # Subscription
