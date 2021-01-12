@@ -112,7 +112,7 @@ contentDir = "content/english"
 weight = 1
 # copyright
 #copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-copyright = "Vyreca3D - Developed by <u>[lucasnp](https://lucasnp.com)</u>"
+copyright = "<b>Vyreca3D</b> - Developed by <b>[lucasnp](https://lucasnp.com)</b>"
 
 
 ################################### French language #####################################
@@ -122,4 +122,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Vyreca3D - Developed by <u>[lucasnp](https://lucasnp.com)</u>"
+copyright = "<b>Vyreca3D</b> - Developed by <b>[lucasnp](https://lucasnp.com)</b>"
